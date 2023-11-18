@@ -1,7 +1,7 @@
 package main
 
 import (
-	"rc_iot_agent/storages"
+	"storage_test/storages"
 )
 
 func main() {
